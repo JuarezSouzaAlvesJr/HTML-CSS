@@ -1,3 +1,3 @@
 # HTML-CSS
  
-Atualiando o readme para faer o commit
+Estou aprendendo a gerenciar repositórios.
